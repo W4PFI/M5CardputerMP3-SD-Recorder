@@ -25,7 +25,7 @@ This project demonstrates how to use the **M5Cardputer** and the **SPM1423 MEMS 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/m5cardputer-audio-recorder.git
+    git clone https://github.com/W4PFI/M5CardputerMP3-SD-Recorder.git
     ```
 
 2. **Set up Arduino IDE**:
