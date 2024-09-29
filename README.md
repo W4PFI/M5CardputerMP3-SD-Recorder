@@ -33,7 +33,7 @@ This project demonstrates how to use the **M5Cardputer** and the **SPM1423 MEMS 
    - Set your board to **M5Stack** in the Arduino IDE.
 
 3. **Upload the code**:
-   - Open the `m5cardputer-audio-recorder.ino` file in Arduino IDE.
+   - Open the `mp3-sd-record.ino` file in Arduino IDE.
    - Connect your M5Cardputer and upload the code.
 
 ## Usage
