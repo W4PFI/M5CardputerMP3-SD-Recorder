@@ -54,9 +54,6 @@ const int amplificationFactor = 3;  // Modify this value to adjust amplification
 
 Be cautious with higher values as they may cause distortion.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contributions
 
