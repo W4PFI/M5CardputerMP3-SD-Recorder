@@ -13,7 +13,6 @@ This project demonstrates how to use the **M5Cardputer** and the **SPM1423 MEMS 
 ## Hardware Requirements
 
 - **M5Cardputer**
-- **SPM1423 MEMS Microphone** (connected via I2S)
 - **SD Card**
 
 ## Software Requirements
