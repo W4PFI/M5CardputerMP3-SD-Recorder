@@ -1,6 +1,6 @@
 
 # M5Cardputer Audio Recorder
-
+M5 Card Computer
 This project demonstrates how to use the **M5Cardputer** and the **SPM1423 MEMS Microphone** to record audio and save it as a `.wav` file on an SD card. The program detects key presses to start and stop recording and dynamically generates filenames to avoid overwriting existing files. Additionally, it applies software amplification to the audio signal.
 
 ## Features
